@@ -285,4 +285,9 @@
       flex: 0 0 100%;
       flex-direction: column;
     }
+
+    .flex-item:first-child {
+      min-height: 150px;
+      max-height: 150px;
+    }
   }
